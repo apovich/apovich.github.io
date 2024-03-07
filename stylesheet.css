@@ -1,0 +1,43 @@
+/* You should edit the content below to fit your website */
+
+* {
+	font-family: Verdana, serif;
+	color: #2D473C;
+	text-align: center;
+}
+nav {
+	background-color: #EFE58D;
+	padding: 10px;
+	margin: 10px;
+}
+li{
+	text-align: left;
+	display: inline;
+	padding: 5px;
+}
+body {
+	width: 1000px;
+	margin: 0 auto;
+	border: groove;
+}
+section {
+	overflow: auto;
+	height: 100%;
+	text-align: center;
+}
+article {
+	background-color: #7ac2a3;
+	float: left;
+	margin: 10px;
+	width:460px;
+}
+main{
+	background-color: #EFE58D;
+	padding: 10px;
+	margin: 10px;
+}
+footer{
+	background-color: #7ac2a3;
+	float: center;
+	margin: 10px;
+}
